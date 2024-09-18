@@ -43,8 +43,10 @@ Com a ajuda de Lucius, Nicholas embarca em uma perigosa jornada pelos reinos de 
 
 ## Capturas de Tela
 
-![Tela 1](caminho/para/screenshot1.png)
-![Tela 2](caminho/para/screenshot2.png)
+![Tela 1](images/du30ar.png)
+![Tela 2](images/fPXRYw.png)
+![Tela 3](images/du30ar.png)
+![Tela 4](images/x50WKX.png)
 
 ## Contato
 
