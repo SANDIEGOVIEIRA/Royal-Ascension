@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"script_spirit_pedra",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_spirit_pedra",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

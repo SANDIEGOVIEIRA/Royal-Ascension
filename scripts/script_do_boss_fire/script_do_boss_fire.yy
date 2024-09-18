@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"script_do_boss_fire",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_do_boss_fire",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

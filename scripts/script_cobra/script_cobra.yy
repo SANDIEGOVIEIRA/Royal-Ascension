@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"script_cobra",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_cobra",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

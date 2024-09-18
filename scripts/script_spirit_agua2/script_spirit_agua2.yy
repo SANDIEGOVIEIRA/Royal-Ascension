@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"script_spirit_agua2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_spirit_agua2",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

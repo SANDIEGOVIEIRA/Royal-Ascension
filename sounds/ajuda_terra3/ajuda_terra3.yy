@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"ajuda_terra3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":9.247347,
+  "name":"ajuda_terra3",
+  "parent":{
+    "name":"AJUDAS",
+    "path":"folders/Sons/AJUDAS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ajuda_terra3.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+texto = "Use seu arco par eliminaar os tornados";

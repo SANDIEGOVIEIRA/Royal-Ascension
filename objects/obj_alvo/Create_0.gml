@@ -1,0 +1,29 @@
+/// @description Inserir descrição aqui
+randomize();
+visible = false;
+// movimentação
+estado = -1;
+prox_estado = 0;
+
+hveloc = 0;
+vveloc = 0;
+veloc = 0;
+veloc_perseg = 0;
+
+dest_x = 0;
+dest_y = 0;
+
+alarm[0] = 1;
+
+dist_atk = 50;
+dist_no_atk = 100;
+
+sombra = -1;
+
+// combate
+max_vida = 1;
+vida = max_vida;
+empurrar_dir = 0;
+empurrar_veloc = 0;
+hit = false;
+

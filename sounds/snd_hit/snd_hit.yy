@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_hit",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.19737,
+  "name":"snd_hit",
+  "parent":{
+    "name":"snd_personagem",
+    "path":"folders/Sons/snd_personagem.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_hit.ogg",
+  "type":0,
+  "volume":1.0,
+}

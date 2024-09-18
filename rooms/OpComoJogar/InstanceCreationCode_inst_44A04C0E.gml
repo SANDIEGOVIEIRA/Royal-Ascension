@@ -1,0 +1,1 @@
+sprite_index = spr_personagem_correndo_direita;

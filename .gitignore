@@ -1,0 +1,6 @@
+*.yyz
+*.yyp~
+.idea/
+.vs/
+.gitattributes
+Thumbnails/
